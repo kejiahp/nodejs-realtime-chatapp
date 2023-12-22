@@ -2,8 +2,6 @@
 
 Web socket API for a simple, reliable, private messaging for free\*, available all over the world.
 
-<!-- xpress mongodb mongoose socket-io zod -->
-
 This is a realtime chat application developed using technologies as follows:
 
 1. Nodejs
